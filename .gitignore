@@ -128,4 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Ignore these files
 config.py
+API_practice.ipunb
+random_numbers.ipynb
